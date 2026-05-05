@@ -24,6 +24,3 @@ Controls in the demo:
 - `R`: rotate around Z
 - `Z` / `X`: zoom in/out
 
-## YC Answer Draft
-
-I built Swing3D, a Java/Swing 3D rendering engine from scratch that implements perspective projection, 3D primitives, rotation, zooming, face filtering, and depth sorting without using a game engine or graphics library.
